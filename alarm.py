@@ -1,7 +1,6 @@
 import winsound, time, os, platform
 
 
-
 def sound():
 
 	for i in range(2): # Number of repeats
